@@ -1,6 +1,6 @@
 # How to Learn Effectively on NVIDIA DGX Spark
 
-This is a structured, clean, reproducible learning workflow aligned with DGX Spark architecture and infrastructure constraints.
+AI Workflows are extremely brittle (break easily) so here is a structured, clean, reproducible learning workflow aligned with DGX Spark architecture and infrastructure constraints.
 
 ---
 
@@ -22,6 +22,7 @@ DGX Spark runs **NVIDIA DGX OS**, a curated AI-optimized stack with:
 - GPU drivers preinstalled
 - NVIDIA Container Runtime configured
 - Docker configured
+- AI Workflows are extremely brittle 
 
 NEVER Manual `apt install`:
 
