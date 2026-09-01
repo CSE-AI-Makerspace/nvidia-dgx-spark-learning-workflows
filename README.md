@@ -1,4 +1,4 @@
-```markdown
+
 # NVIDIA DGX Spark Learning Workflows
 
 A minimal, reproducible learning repo for understanding GPU containers, DGX Spark workflows, and the transition from experimentation to production in the NVIDIA ecosystem.
@@ -43,8 +43,3 @@ Triton (later) serves models at scale.
 
 This repo focuses on mastering the bridge from development to production-ready AI systems.
 
-```
-
-```
-
-```
